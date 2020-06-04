@@ -6,12 +6,12 @@
 
 section{
     height: 100vh;
-    background-color: rgb(39, 41, 68);
+    background-color: #63474D;
     font-family: sans-serif;
 }
 
 .score{
-    color: rgb(224, 224, 224);
+    color: #FCDFA6;
     height: 20vh;
     display: flex;
     justify-content: space-around;
@@ -49,9 +49,9 @@ section{
     height: 50px;
     background: none;
     border: none;
-    color: rgb(224, 224, 224);
+    color: white;
     font-size: 20px;
-    background-color: rgb(45, 117, 96);
+    background-color: #AA767C;
     border-radius: 3px;
     cursor: pointer;
 }
